@@ -10,7 +10,8 @@
   "description": "",
   "dependencies": {
     "express": "^5.1.0",
-    "mongoose": "^8.17.0"
+    "mongoose": "^8.17.0",
+    "mongoose-sequence": "^6.0.1"
   },
   "devDependencies": {
     "dotenv": "^17.2.1",

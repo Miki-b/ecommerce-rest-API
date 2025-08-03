@@ -1,0 +1,13 @@
+{
+    "editor.inlineSuggest.enabled": false,
+    "editor.suggest.showKeywords": false,
+    "editor.suggest.showMethods": false,
+    "editor.suggest.showVariables": true,
+    "editor.suggest.showUsers": false,
+    "editor.suggest.showValues": false,
+    "editor.suggest.showTypeParameters": false,
+    "editor.suggest.showOperators": false,
+    "editor.suggest.showConstructors": false,
+    "editor.suggest.showClasses": false,
+    "editor.suggest.matchOnWordStartOnly": false
+}
